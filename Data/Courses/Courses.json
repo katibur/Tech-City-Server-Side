@@ -1,0 +1,110 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "enrolled": 488,
+        "videos": 48,
+        "title": "Introduction To Data Structure",
+        "author": {
+            "name": "Allen Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ytimg.com/vi/Qmt0QwzEmh0/maxresdefault.jpg",
+        "details": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "02",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "enrolled": 488,
+        "videos": 40,
+        "title": "Introduction To Algorithm",
+        "author": {
+            "name": "Jimmy Nolen",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://www.devopsschool.com/blog/wp-content/uploads/2021/06/Complete-Tutorials-of-Introduction-to-Algorithm.png",
+        "details": "An algorithm is simply a set of steps used to complete a specific task. They're the building blocks for programming, and they allow things like computers, smartphones, and websites to function and make decisions. In addition to being used by technology, a lot of things we do on a daily basis are similar to algorithms."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "category_id": "03",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "enrolled": 400,
+        "videos": 45,
+        "title": "Introduction To JavaScript",
+        "author": {
+            "name": "Jennifer Wood",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png",
+        "details": "JavaScript is the world's most popular lightweight, interpreted compiled programming language. It is also known as scripting language for web pages. It can be used for Client-side as well as Server-side developments."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "category_id": "04",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "enrolled": 400,
+        "videos": 35,
+        "title": "Introduction To C#",
+        "author": {
+            "name": "Micheal Mershe",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/03/2021_C9_top-level_programs_target-typed_Featured_article_image_A-01.png?itok=hN4XnLJr",
+        "details": "C# is a general-purpose, modern and object-oriented programming language pronounced as “C Sharp”. It was developed by Microsoft led by Anders Hejlsberg and his team within the .NET initiative and was approved by the European Computer Manufacturers Association (ECMA) and International Standards Organization (ISO). C# is among the languages for Common Language Infrastructure. C# is a lot similar to Java syntactically and is easy for users who have knowledge of C, C++ or Java."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "category_id": "05",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "enrolled": 980,
+        "videos": 50,
+        "title": "Introduction To Python",
+        "author": {
+            "name": "Tom Han",
+            "published_date": "2022-08-24 23:15:00",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://www.mytaskpanel.com/wp-content/uploads/2021/05/2021-05-14-1.webp",
+        "details": "Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "enrolled": 980,
+        "videos": 36,
+        "title": "Introduction To Computer Architecture",
+        "author": {
+            "name": "Peter Parker",
+            "published_date": "2022-08-24 23:15:00",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2018/12/Computer-Architecture.jpg",
+        "details": "In computer engineering, computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. The architecture of a system refers to its structure in terms of separately specified components of that system and their interrelationships."
+    }
+]

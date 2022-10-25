@@ -29,4 +29,3 @@ app.get('/course-categories/:id', (req, res) => {
     }
 });
 
-
