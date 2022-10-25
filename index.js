@@ -11,15 +11,22 @@ app.use(cors());
 
 app.get('/', (req, res) => {
     res.send('api running on port 5000')
-})
+});
 
 app.listen(port, () => {
     console.log('api is running on port', port);
-})
+});
 
 app.get('/course-categories', (req, res) => {
     res.send(categories)
-})
-app.get('/courses', (req, res) => {
-    res.send(courses)
-})
+});
+
+app.get('/course-categories/:id', (req, res) => {
+    const id = req.params.id;
+    {
+        const courseCategory = courses.filter(singlecourseCategory => singlecourseCategory.category_id === id);
+        res.send(courseCategory);
+    }
+});
+
+
